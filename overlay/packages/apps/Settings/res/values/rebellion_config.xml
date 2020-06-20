@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Advanced Battery info -->
+    <string name="config_battHealthPath">/sys/class/power_supply/battery/health</string>
+    <string name="config_battStatsPath">/sys/class/power_supply/battery/status</string>
+    <string name="config_battTechPath">/sys/class/power_supply/battery/technology</string>
+    <string name="config_battCapacityPath">/sys/class/power_supply/battery/capacity</string>
+    <string name="config_battChargeDesignPath">/sys/class/power_supply/battery/charge_full_design</string>
+    <string name="config_battChargeFullPath">/sys/class/power_supply/battery/charge_full</string>
+    <string name="config_battChargeTypePath">/sys/class/power_supply/battery/charge_type</string>
+    <string name="config_battCurrentMaxPath">/sys/class/power_supply/usb/current_max</string>
+    <string name="config_battCurrentPath">/sys/class/power_supply/battery/current_now</string>
+    <string name="config_battOriginalCapacityPath">/sys/class/power_supply/bms/charge_full</string>
+    <string name="config_battQcomVersionPath"></string>
+    <string name="config_battSysTempLevelPath">/sys/class/power_supply/battery/system_temp_level</string>
+    <string name="config_battVoltageMaxPath">/sys/class/power_supply/usb/voltage_max</string>
+    <string name="config_battVoltagePath">/sys/class/power_supply/battery/voltage_now</string>
+    <string name="config_battChargeCyclePath"></string>
+
+</resources>
