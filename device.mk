@@ -395,7 +395,9 @@ PRODUCT_PACKAGES += \
 
 # Soong
 PRODUCT_SOONG_NAMESPACES += \
-    device/xiaomi/ugglite
+    device/xiaomi/ugglite \
+    kernel/xiaomi/msm8917 \
+    vendor/xiaomi 
 
 # Telephony
 PRODUCT_PACKAGES += \
