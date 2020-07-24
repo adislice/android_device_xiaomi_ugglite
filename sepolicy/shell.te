@@ -1,0 +1,3 @@
+allow shell proc_last_kmsg:file { open read };
+allow shell vendor_file:file { getattr read };
+
